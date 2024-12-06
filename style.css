@@ -262,3 +262,89 @@ body{
 .link_main:hover{
     box-shadow: 2px 2px 9px #D81B60;
 }
+}
+@media screen and (max-width:508px) {
+    .text_head{
+        gap: 50px;
+        font-size: 10px;
+    }
+}
+@media screen and (max-width: 508px) {
+    .logo_head{
+        display: none;
+    }
+}
+@media screen and (max-width: 508px) {
+    .p_head{
+        display: none;
+    }
+}
+@media screen and (max-width: 508px) {
+    .h1_head,.h2_head{
+        display: none;
+        
+    }
+}
+@media screen and (max-width: 508px) {
+    .all_food{
+        display: block;
+        
+    }
+}
+@media screen and (max-width: 508px) {
+    .div_img_food1,.div_img_food2,.div_img_food3{
+        width: 200px;
+        font-size: 12px;
+        margin: 10px;
+    }
+}
+@media screen and (max-width: 508px) {
+    .img_main{
+        display: none;
+        
+    }
+}
+@media screen and (max-width: 508px) {
+    .text_main_2{
+        display: none;
+        
+    }
+}
+@media screen and (max-width: 440px) {
+    .div_img_food1,.div_img_food2,.div_img_food3{
+        margin-left: -50px;
+        
+    }
+}
+@media screen and (max-width: 440px) {
+    .div_img_food1,.div_img_food2,.div_img_food3{
+        font-size: 8px;
+        
+    }
+}
+@media screen and (max-width: 440px) {
+    .img_head{
+        width: 300px;        
+    }
+}
+@media screen and (max-width: 440px) {
+    .text_head{
+        gap: 20px;        
+    }
+}
+@media screen and (max-width: 390px) {
+    .img_head{
+        width: 300px;        
+    }
+}
+@media screen and (max-width: 390px) {
+    .text_head{
+        gap: 20px; 
+        font-size: 8px;       
+    }
+}
+@media screen and (max-width: 390px) {
+    .div_img_food1,.div_img_food2,.div_img_food3{
+        margin-left: -100px;
+    }
+}
