@@ -381,3 +381,8 @@ body{
         margin-top: 50px;
     }
 }
+@media screen and (max-width: 290px) {
+    .text_head{
+        font-size: 3px;
+    }
+}
