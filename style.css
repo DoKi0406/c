@@ -4,7 +4,7 @@
 }
 @font-face {
     font-family: ttn;
-    src: url(./TTNorms-Medium.otf);
+    src: url(./https://github.com/DoKi0406/c/blob/main/TTNorms-Medium.otf);
 }
 *{
     box-sizing: border-box;
