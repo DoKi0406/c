@@ -348,3 +348,15 @@ body{
         margin-left: -100px;
     }
 }
+@media screen and (max-width: 390px) {
+    .text_head{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+@media screen and (max-width: 390px) {
+    .img_head{
+        margin-left: -100px;
+    }
+}
