@@ -360,3 +360,24 @@ body{
         margin-left: -100px;
     }
 }
+}
+@media screen and (max-width: 352px) {
+    .text_head{
+        font-size: 5px;
+    }
+}
+@media screen and (max-width: 313px) {
+    .img_head{
+        width: 200px;
+    }
+}
+@media screen and (max-width: 313px) {
+    .div_img_food1,.div_img_food2,.div_img_food3{
+        margin-left: -100px;
+    }
+}
+@media screen and (max-width: 313px) {
+    .all_food{
+        margin-top: 50px;
+    }
+}
